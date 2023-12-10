@@ -4,6 +4,7 @@
     <a href="#"><img src="https://img.shields.io/github/followers/777-FOXik-777?style=social&label=follow"></a>
     <a href="#"><img src="https://img.shields.io/github/stars/777-FOXik-777?style=social"></a>
 </p>
+<hr />
 
 <hr />
 <p align=center>
