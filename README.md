@@ -92,17 +92,12 @@ class Languages:
   </tr>
   <tr>
     <td>Device 1</td>
-    <td>Windows 10 Pro</td>
-    <td>Intel Core i2</td>
-  </tr>
-  <tr>
-    <td>Device 2</td>
-    <td>Xubuntu 22.04</td>
-    <td>-</td>
+    <td>Windows 11 Pro</td>
+    <td>Intel Core i5</td>
   </tr>
   <tr>
     <td>Samsung Galaxy ***</td>
-    <td>Android 12, OneUI 4</td>
+    <td>Android 14, OneUI 6</td>
     <td>Unisoc</td>
   </tr>
 </table>
