@@ -107,6 +107,7 @@ class Languages:
 
 <br/>
 
+### `Bнформация о системе`
 <table border="1">
   <tr>
     <th>Девайсы</th>
@@ -114,7 +115,7 @@ class Languages:
     <th>Процесор</th>
   </tr>
   <tr>
-    <td>ПК</td>
+    <td>Ноутбук</td>
     <td>Windows 11 Pro</td>
     <td>Intel Core i5</td>
   </tr>
