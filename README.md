@@ -1,11 +1,7 @@
-<h2>Howdy , it's <i>Tahmid Rayat 👋</i></h2>
-Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
-<br /><br />
 
-<!-- Badges -->
 <p>
-    <a href="#"><img src="https://img.shields.io/github/followers/htr-tech?style=social&label=follow"></a>
-    <a href="#"><img src="https://img.shields.io/github/stars/htr-tech?style=social"></a>
+    <a href="#"><img src="https://img.shields.io/github/followers/777-FOXik-777?style=social&label=follow"></a>
+    <a href="#"><img src="https://img.shields.io/github/stars/777-FOXik-777?style=social"></a>
     <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
