@@ -82,16 +82,16 @@ class Languages:
 
 <br/>
 
-<!-- System Info -->
-### Девайсы
+
+
 <table border="1">
   <tr>
-    <th>Device</th>
+    <th>Девайсы</th>
     <th>Operating System</th>
     <th>Processor</th>
   </tr>
   <tr>
-    <td>Device 1</td>
+    <td>ПК</td>
     <td>Windows 11 Pro</td>
     <td>Intel Core i5</td>
   </tr>
