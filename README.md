@@ -12,62 +12,6 @@
 </p>
 <hr />
 
-### `~# cat AboutMe`
-<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
-
-- I am a **student** 📚
-- I am from **Bangladesh** 🇧🇩 
-- Love of my life : **sleeping** 🛌
-- Dream: become a software engineer 💸
-- Fun Fact: I spend more time in **commenting**
-
-### Current Works:
-- Participating in CTF's.
-- Learning Golang.
-- Trying to get good marks in exams.
-- Working on some private projects.
-<hr />
-
-### `~# ls Projects`
-<br>
-<table border="1">
-    <tr>
-        <th>Repository Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/zphisher">zphisher</a></td>
-        <td>An automated phishing tool with 30+ phishing templates.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/modded-ubuntu/modded-ubuntu">modded-ubuntu</a></td>
-        <td>Run Ubuntu GUI on termux based on Proot-Distro.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse-Engineering</a></td>
-        <td>Some tools reverse engineered by me (mostly python).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/host">host</a></td>
-        <td>Temporarily Host Files from your device with this tool.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/Vigenere-Decoder">Vigenere-Decoder</a></td>
-        <td>Decode Vigenere cipher text just using the Flag Format!!</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/PyObfuscate">PyObfuscate</a></td>
-        <td>Python Code Obfuscator.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/public.repo">public.repo</a></td>
-        <td>A collection of codes for various purposes.</td>
-    </tr>
-</table>
-
-<br/>
-
-
 <table border="1">
   <tr>
     <th>Девайсы</th>
