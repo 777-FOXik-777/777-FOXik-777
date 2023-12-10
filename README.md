@@ -30,3 +30,4 @@
     <td>Unisoc</td>
   </tr>
 </table>
+<hr />
