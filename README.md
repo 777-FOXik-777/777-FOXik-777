@@ -87,8 +87,8 @@ class Languages:
 <table border="1">
   <tr>
     <th>Девайсы</th>
-    <th>Operating System</th>
-    <th>Processor</th>
+    <th>Операционка</th>
+    <th>Процесор</th>
   </tr>
   <tr>
     <td>ПК</td>
@@ -96,10 +96,8 @@ class Languages:
     <td>Intel Core i5</td>
   </tr>
   <tr>
-    <td>Samsung Galaxy ***</td>
+    <td>Samsung Galaxy</td>
     <td>Android 14, OneUI 6</td>
     <td>Unisoc</td>
   </tr>
 </table>
-
-<!-- end -->
