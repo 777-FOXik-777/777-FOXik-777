@@ -1,4 +1,5 @@
 <hr />
+
 <p align=center>
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/777-FOXik-777?style=social&label=follow"></a>
@@ -6,11 +7,14 @@
 </p>
 
 <hr />
+
 <p align=center>
+<p>
     <a href="https://t.me/SYPEXHACK" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
 </p>
+
 <hr />
 
 <table border="1">
@@ -30,4 +34,5 @@
     <td>Unisoc</td>
   </tr>
 </table>
+
 <hr />
