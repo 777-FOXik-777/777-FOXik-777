@@ -9,12 +9,13 @@
 
 <hr />
 
-<p align=center>
+<h1 align="center">
 <p>
     <a href="https://t.me/SYPEXHACK" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
 </p>
+</h1>
 
 <hr />
 
