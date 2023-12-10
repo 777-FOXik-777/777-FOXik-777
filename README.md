@@ -15,20 +15,9 @@ sh-6.9$ /bin/bash -i
 <!-- Social Badges-->
 <hr />
 <p align=center>
-    <a href="https://t.me/tahmidrayat_official" target="_blank"><img
+    <a href="https://t.me/SYPEXHACK" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/tahmidrayat" target="_blank"><img
-            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://facebook.com/tahmid.rayat.official" target="_blank"><img
-            src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logoColor=white&logo=facebook"
-            alt="Facebook"></a>
-    <a href="https://instagram.com/tahmid.rayat" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
-            alt="Instagram"></a>
-    <a href="https://github.com/htr-tech.gpg" target="_blank"><img
-            src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
-            alt="GPG Key"></a>
 </p>
 <hr />
 
