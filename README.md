@@ -93,21 +93,19 @@ sh-6.9$ /bin/bash -i
 <br/>
 
 <!-- Languages -->
-### `~# head language.py`
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+### `Языки`
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=777-FOXik-777&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
 ```python
 class Languages:
   def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
-    self.future = "..."
+    self.python = "Python"
+    self.bash = "Bash"
 ```
 
 <br/>
 
-### `Bнформация о системе`
+### `Информация о системе`
 <table border="1">
   <tr>
     <th>Девайсы</th>
