@@ -4,7 +4,6 @@
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/777-FOXik-777?style=social&label=follow"></a>
     <a href="#"><img src="https://img.shields.io/github/stars/777-FOXik-777?style=social"></a>
-</p>
 </h1>
 
 <hr />
@@ -14,7 +13,6 @@
     <a href="https://t.me/SYPEXHACK" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
-</p>
 </h1>
 
 <hr />
