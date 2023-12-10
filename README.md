@@ -83,7 +83,7 @@ class Languages:
 <br/>
 
 <!-- System Info -->
-### `~# ./sysinfo`
+### Девайсы
 <table border="1">
   <tr>
     <th>Device</th>
