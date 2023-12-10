@@ -2,7 +2,6 @@
 <p>
     <a href="#"><img src="https://img.shields.io/github/followers/777-FOXik-777?style=social&label=follow"></a>
     <a href="#"><img src="https://img.shields.io/github/stars/777-FOXik-777?style=social"></a>
-    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
 <!-- Console? -->
