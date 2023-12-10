@@ -19,7 +19,6 @@
 
 <hr />
 
-<h1 align="center">
 <table border="1">
   <tr>
     <th>Девайсы</th>
@@ -37,6 +36,5 @@
     <td>Unisoc</td>
   </tr>
 </table>
-</h1>
 
 <hr />
