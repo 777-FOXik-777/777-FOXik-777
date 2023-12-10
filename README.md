@@ -9,13 +9,13 @@ Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
 </p>
 
 ### `Языки`
-<h3 align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777-FOXik-777&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
-<h3>
     
 <br/>
 
 ### `Информация о системе`
+<h3 align="center">
+    
 <table border="1">
   <tr>
     <th>Девайсы</th>
@@ -33,5 +33,7 @@ Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
     <td>Unisoc</td>
   </tr>
 </table>
+
+<h3>
 
 <hr />
