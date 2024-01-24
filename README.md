@@ -7,12 +7,6 @@
 </p>
 
 
-<h1 align="center">Привет , я 777-FOXik-777</h1><h3 align="center">Увлеченный фронтенд-разработчик из Беларуси</h3>- В настоящее время я работаю над [Installer](https://github.com/777-FOXik-777/installer)
-
-<h3 align="left">Свяжитесь со мной:</h3><p align="left"></p>
-
-<h3 align="left">
-
 
 
 
