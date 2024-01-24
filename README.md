@@ -3,5 +3,5 @@
 <h3 align="center">Computer science student, IT news writer from Belarus</h3>
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=777-FOXik-777&theme=dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9)
+  <img src="https://streak-stats.demolab.com?user=777-FOXik-777&theme=dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9" alt="GitHub Streak">
 </p>
