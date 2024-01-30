@@ -4,4 +4,4 @@
 
 <h1 align="center">
   
-[>>поддержать<<](https://yoomoney.ru/to/4100117367004233/0)
+[Поддержать](https://yoomoney.ru/to/4100117367004233/0)
