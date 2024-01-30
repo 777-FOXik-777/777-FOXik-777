@@ -2,4 +2,3 @@
   
 <p align="center">
 # [Добавить утилиту в Installer](https://forms.gle/vMHny8Yp24HQZqLV9)
-</p>
