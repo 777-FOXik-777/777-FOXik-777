@@ -9,7 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&show_icons=true&repo=installer&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark" />
 
 
 <p align="center">
