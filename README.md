@@ -9,9 +9,23 @@
 <br>
 <h1 align="center"></h1>
 
-Текст слева ![Installer](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
-
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 2; padding-right: 20px;">
+    <p>
+      Вот длинный текст, который будет находиться слева.  
+      Здесь можно добавить параграфы, списки, ссылки и другой контент.  
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
+    </p>
+    <ul>
+      <li>Список 1</li>
+      <li>Список 2</li>
+    </ul>
+    <p>Дополнительный абзац текста для пояснения.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark" alt="GitHub Stats" />
+  </div>
+</div>
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
