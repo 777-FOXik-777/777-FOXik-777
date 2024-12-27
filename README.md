@@ -9,10 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-![Installer](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
-[![GitHub stars](https://img.shields.io/github/stars/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
-[![GitHub forks](https://img.shields.io/github/forks/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
-
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-77&repo=installer&theme=radical)
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
