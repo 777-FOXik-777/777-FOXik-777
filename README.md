@@ -3,7 +3,7 @@
 
 ### Привет, друзья!
 
-Это GitHub-аккаунт Telegram-канала [**SYPEXHACK**](https://t.me/+1MZLhFv1sMJjZmFi). Здесь публикуются репозитории, созданные в рамках работы этого канала. Подписывайтесь, чтобы быть в курсе новых проектов!
+Это GitHub-аккаунт [Telegram-канала](https://t.me/+1MZLhFv1sMJjZmFi) **SYPEXHACK**(https://t.me/+1MZLhFv1sMJjZmFi). Здесь публикуются репозитории, созданные в рамках работы этого канала. Подписывайтесь, чтобы быть в курсе новых проектов!
 
 [![Profile views](https://komarev.com/ghpvc/?username=777-FOXik-777&color=313131)](https://github.com/777-FOXik-777) [![Followers](https://img.shields.io/github/followers/777-FOXik-777?style=flat&color=313131)](https://github.com/777-FOXik-777) [![Stars](https://img.shields.io/github/stars/777-FOXik-777?style=flat&color=313131)](https://github.com/777-FOXik-777)
 <br>
