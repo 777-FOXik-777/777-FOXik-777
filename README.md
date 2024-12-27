@@ -9,15 +9,10 @@
 <br>
 <h1 align="center"></h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    Вот текст, который будет слева от изображения.
-    Можно добавить больше информации.
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark" alt="GitHub Stats" />
-  </div>
-</div>
+| Текст слева                                 | Виджет справа                                                                                                     |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Вот текст, который будет находиться слева.  | ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark) |
+
 
 
 <p align="center">
