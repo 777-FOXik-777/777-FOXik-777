@@ -9,7 +9,8 @@
 <br>
 <h1 align="center"></h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
+Текст слева ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
+
 
 
 <p align="center">
