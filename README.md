@@ -9,9 +9,10 @@
 <br>
 <h1 align="center"></h1>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=777-FOXik-777&show_icons=true&hide_title=true&theme=dark)
+![Installer](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
 [![GitHub stars](https://img.shields.io/github/stars/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
 [![GitHub forks](https://img.shields.io/github/forks/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
-[![GitHub issues](https://img.shields.io/github/issues/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer/issues)
 
 
 <p align="center">
