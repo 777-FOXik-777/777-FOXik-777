@@ -9,7 +9,6 @@
 <br>
 <h1 align="center"></h1>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist??username=777-FOXik-777)](https://gist.github.com/777-FOXik-777/installer)
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=radical" />
 
 
