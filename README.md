@@ -4,7 +4,7 @@
 
 Это GitHub-аккаунт Telegram-канала **SYPEXHACK**. Здесь публикуются репозитории, созданные в рамках работы этого канала. Подписывайтесь, чтобы быть в курсе новых проектов и разработок!
 
-[![Profile views](https://komarev.com/ghpvc/?username=777-FOXik-777&color=313131)](https://github.com/777-FOXik-777) [![GitHub stars](https://img.shields.io/github/stars/777-FOXik-777?style=flat&color=313131)](https://github.com/777-FOXik-777) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
+[![Profile views](https://komarev.com/ghpvc/?username=777-FOXik-777&color=313131)](https://github.com/777-FOXik-777) [![Stars](https://img.shields.io/github/stars/777-FOXik-777?style=flat&color=313131)](https://github.com/777-FOXik-777) [![Followers](https://img.shields.io/github/followers/777-FOXik-777?style=flat&color=313131)](https://github.com/777-FOXik-777)
 
 <br>
 
