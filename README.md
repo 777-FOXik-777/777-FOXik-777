@@ -1,5 +1,5 @@
 <h1 align="center">SYPEXHACK</h1>
-<img align="left" src="https://i.postimg.cc/YqnXQGHt/sypexhack.png">
+<img align="left" src="https://i.postimg.cc/7Y43bSQ5/zq2.gif">
 
 ### Привет, друзья!
 
