@@ -9,8 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
-[![GitHub forks](https://img.shields.io/github/forks/777-FOXik-777/installer?style=social)](https://github.com/777-FOXik-777/installer)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=777-FOXik-777&show_icons=true&hide_title=true&theme=dark)
 
 
 
