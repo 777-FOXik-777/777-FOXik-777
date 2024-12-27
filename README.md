@@ -10,7 +10,7 @@
 <h1 align="center"></h1>
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist??username=777-FOXik-777)](https://gist.github.com/777-FOXik-777/installer)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=convoychat" />
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
