@@ -9,7 +9,8 @@
 <br>
 <h1 align="center"></h1>
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark&layout=compact)
+
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
