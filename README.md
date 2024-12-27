@@ -1,5 +1,6 @@
 <h1 align="center">SYPEXHACK</h1>
 <img align="left" src="https://i.postimg.cc/YqnXQGHt/sypexhack.png">
+
 ### Привет, друзья!
 
 Это GitHub-аккаунт Telegram-канала **SYPEXHACK**. Здесь публикуются репозитории, созданные в рамках работы этого канала. Подписывайтесь, чтобы быть в курсе новых проектов!
