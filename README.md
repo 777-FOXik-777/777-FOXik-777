@@ -9,9 +9,9 @@
 <br>
 <h1 align="center"></h1>
 
-<div align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark" />
-</div>
+</p>
 
 
 
