@@ -9,7 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark&layout=compact)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
 
 
 <p align="center">
