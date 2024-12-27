@@ -19,4 +19,4 @@
 <a href="https://t.me/+1MZLhFv1sMJjZmFi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-SYPEXHACK-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
-[![GitHub forks](https://i.postimg.cc/0ycFVkJC/1735340828002.jpg)](https://t.me/+1MZLhFv1sMJjZmFi)
+[![Banner](https://i.postimg.cc/0ycFVkJC/1735340828002.jpg)](https://t.me/+1MZLhFv1sMJjZmFi)
