@@ -11,9 +11,9 @@
 
 # Installer Repository
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=777-FOXik-77&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=777-FOXik-777&show_icons=true&theme=radical)
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-77&repo=installer&theme=radical)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=radical)
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
