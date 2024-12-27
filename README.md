@@ -9,6 +9,10 @@
 <br>
 <h1 align="center"></h1>
 
+# Installer Repository
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=777-FOXik-77&show_icons=true&theme=radical)
+
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-77&repo=installer&theme=radical)
 
 <p align="center">
