@@ -1,4 +1,3 @@
-<img src="https://i.postimg.cc/0ycFVkJC/1735340828002.jpg">
 <img align="left" src="https://i.postimg.cc/25Nrf85N/sypexhack-1.gif">
 
 ### Привет, друзья!
@@ -16,3 +15,4 @@
 <a href="https://t.me/+1MZLhFv1sMJjZmFi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-SYPEXHACK-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
+<img src="https://i.postimg.cc/0ycFVkJC/1735340828002.jpg">
