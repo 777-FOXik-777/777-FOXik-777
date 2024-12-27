@@ -1,4 +1,4 @@
-<img align="left" src="https://i.postimg.cc/YqnXQGHt/sypexhack.png">
+<img align="rigth" src="https://i.postimg.cc/YqnXQGHt/sypexhack.png">
 
 ### Привет, друзья!
 
