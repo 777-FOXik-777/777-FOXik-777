@@ -9,7 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/777-FOXik-777/installer)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist??username=777-FOXik-777)](https://gist.github.com/777-FOXik-777/installer)
 
 
 <p align="center">
