@@ -1,3 +1,4 @@
+<h1 align="center">Installer v3</h1>
 <img align="left" src="https://i.postimg.cc/YqnXQGHt/sypexhack.png">
 
 ### Привет, друзья!
