@@ -15,7 +15,7 @@
 
 <img align="left" src="https://i.postimg.cc/J4qfvzCF/1735334183268-1.png">
 
-### Hey!
+### Привет, друзья!
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
 
