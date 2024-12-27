@@ -9,8 +9,6 @@
 <br>
 <h1 align="center"></h1>
 
-# Installer Repository
-
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
 
 <p align="center">
