@@ -9,8 +9,7 @@
 <br>
 <h1 align="center"></h1>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/777-FOXik-777/REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/777-FOXik-777/REPO?style=social)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/777-FOXik-777/installer)
 
 
 <p align="center">
