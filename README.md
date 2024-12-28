@@ -15,6 +15,10 @@
 <br>
 <h1 align="center"></h1>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Статус сборки">
+</div>
+
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
 
 
