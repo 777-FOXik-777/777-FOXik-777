@@ -1,9 +1,9 @@
-<h1 align="center">SYPEXHACK</h1>
+<div align="center">SYPEXHACK</div>
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
 <a href="https://t.me/+1MZLhFv1sMJjZmFi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-SYPEXHACK-blue?style=for-the-badge&logo=telegram"></a>
 </p>
-<div align="center"></div>
+<h1 align="center"></h1>
 <img align="left" src="https://i.postimg.cc/25Nrf85N/sypexhack-1.gif">
 
 ### Привет, друзья!
