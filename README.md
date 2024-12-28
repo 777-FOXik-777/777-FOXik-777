@@ -14,7 +14,4 @@
 <br>
 <h1 align="center"></h1>
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
-
-
 [![Banner](https://i.postimg.cc/0ycFVkJC/1735340828002.jpg)](https://t.me/+1MZLhFv1sMJjZmFi)
