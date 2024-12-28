@@ -1,6 +1,4 @@
-<div align="center">
-  <span style="font-size: 36px;">Текст по центру без полосы</span>
-</div>
+<h1 align="center">SYPEXHACK</h1>
 
 <p align="center">
 <a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
