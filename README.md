@@ -1,4 +1,8 @@
 <h1 align="center">SYPEXHACK</h1>
+<p align="center">
+<a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
+<a href="https://t.me/+1MZLhFv1sMJjZmFi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-SYPEXHACK-blue?style=for-the-badge&logo=telegram"></a>
+</p>
 <img align="left" src="https://i.postimg.cc/25Nrf85N/sypexhack-1.gif">
 
 ### Привет, друзья!
@@ -11,10 +15,5 @@
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=777-FOXik-777&repo=installer&theme=dark)
 
-
-<p align="center">
-<a href="https://youtube.com/@sypexhack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SYPEXHACK-red?style=for-the-badge&logo=youtube"></a>
-<a href="https://t.me/+1MZLhFv1sMJjZmFi"><img title="Telegram" src="https://img.shields.io/badge/Telegram-SYPEXHACK-blue?style=for-the-badge&logo=telegram"></a>
-</p>
 
 [![Banner](https://i.postimg.cc/0ycFVkJC/1735340828002.jpg)](https://t.me/+1MZLhFv1sMJjZmFi)
